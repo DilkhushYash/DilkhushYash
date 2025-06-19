@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilkhush Yash</h1>
 
 <p align="center">
-🚀 Passionate Web Developer | AI/ML Engineer | 🤖 Tech Explorer  
+🚀 Passionate Web Developer | AI/ML Engineer | Data Anaylst | 🤖 Tech Explorer  
 From Surat, India 🇮🇳 | Currently pursuing B.Tech in Computer Science  
 </p>
 
